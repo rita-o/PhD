@@ -1,4 +1,5 @@
 close all
+clc
 figure()
 % Display gamma distribution
 theta       = 0.2;
